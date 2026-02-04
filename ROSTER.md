@@ -7,6 +7,6 @@
 | Katie Markstein |               |               |               |
 | Gavin McEwen |               |               |               |
 | Cody Plaisance |               |               |               |
-| Grissy Sime Mora |               |               |               |
+| Grissy Sime Mora |gsimemora|gsime@colostate.edu|tall|
 | Juelle St Clair |               |               |               |
 | Sarah Tallent |               |               |               |
